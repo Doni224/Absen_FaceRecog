@@ -1,0 +1,42 @@
+./align_img\Ariffulah\Arif.png 241 609 705 1253
+./align_img\Ariffulah\Arif1.png 138 589 583 1146
+./align_img\Ariffulah\Arif10.png 148 455 705 1179
+./align_img\Ariffulah\Arif11.png 142 464 696 1137
+./align_img\Ariffulah\Arif12.png 291 548 798 1255
+./align_img\Ariffulah\Arif13.png 101 468 624 1156
+./align_img\Ariffulah\Arif14.png 212 499 702 1121
+./align_img\Ariffulah\Arif15.png 256 467 702 1014
+./align_img\Ariffulah\Arif2.png 213 515 678 1135
+./align_img\Ariffulah\Arif3.png 313 639 663 1129
+./align_img\Ariffulah\Arif4.png 213 627 620 1152
+./align_img\Ariffulah\Arif5.png 196 525 685 1138
+./align_img\Ariffulah\Arif6.png 309 532 753 1132
+./align_img\Ariffulah\Arif7.png 233 420 712 1065
+./align_img\Ariffulah\Arif8.png 82 498 587 1116
+./align_img\Ariffulah\Arif9.png 219 439 670 980
+./align_img\Ilham Fajar\ilahm fajar.png 114 299 521 860
+./align_img\Ilham Fajar\ilahm fajar1.png 150 287 604 911
+./align_img\Ilham Fajar\ilahm fajar10.png 206 503 694 1163
+./align_img\Ilham Fajar\ilahm fajar11.png 137 370 678 1130
+./align_img\Ilham Fajar\ilahm fajar12.png 173 422 741 1188
+./align_img\Ilham Fajar\ilahm fajar13.png 167 453 739 1217
+./align_img\Ilham Fajar\ilahm fajar14.png 200 544 704 1246
+./align_img\Ilham Fajar\ilahm fajar2.png 122 297 519 851
+./align_img\Ilham Fajar\ilahm fajar3.png 161 342 528 849
+./align_img\Ilham Fajar\ilahm fajar4.png 169 328 523 806
+./align_img\Ilham Fajar\ilahm fajar5.png 152 380 517 835
+./align_img\Ilham Fajar\ilahm fajar6.png 187 452 715 1193
+./align_img\Ilham Fajar\ilahm fajar7.png 132 400 713 1161
+./align_img\Ilham Fajar\ilahm fajar8.png 187 394 728 1140
+./align_img\Ilham Fajar\ilahm fajar9.png 125 306 786 1170
+./align_img\Irvan Akbar\irvan.png 114 368 605 1002
+./align_img\Irvan Akbar\irvan1.png 181 546 621 1141
+./align_img\Irvan Akbar\irvan10.png 120 584 593 1172
+./align_img\Irvan Akbar\irvan2.png 106 489 517 1061
+./align_img\Irvan Akbar\irvan3.png 156 470 608 1115
+./align_img\Irvan Akbar\irvan4.png 147 663 574 1210
+./align_img\Irvan Akbar\irvan5.png 66 557 559 1135
+./align_img\Irvan Akbar\irvan6.png 204 514 651 1120
+./align_img\Irvan Akbar\irvan7.png 183 566 623 1125
+./align_img\Irvan Akbar\irvan8.png 112 569 555 1174
+./align_img\Irvan Akbar\irvan9.png 109 546 546 1171

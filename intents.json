@@ -1,0 +1,82 @@
+{
+    "intents": [{
+            "tag": "greetings",
+            "patterns": [ "hello","haroo","yaw","wassup", "hi", "hey", "holla", "hello"],
+            "responses": ["hello selamat datang, terimakasih sudah bertanya.", "hi, apa yang dapat saya bantu?"],
+            "context": [""]
+        },
+        {
+            "tag": "aplikasi",
+            "patterns": ["aplikasi apa ini","aplikasi apa"],
+            "responses": ["aplikasi ini merupakan aplikasi absensi menggunakan face recognition yang dimana siswa yang sudah mendaftar atau terdaftar dapat mengisi kehadiran absensinya dengan cara scan wajah (face recognition)."],
+            "context": [""]
+        },
+        {
+            "tag": "selamat pagi",
+            "patterns": ["pagi","Pagi","Pagi","Pagi"],
+            "responses": ["selamat pagi ","selamat pagi ada yang bisa saya bantu?"],
+            "context": [""]
+        },
+        {
+            "tag": "selamat siang",
+            "patterns": ["selamat siang","siang","siang","siang"],
+            "responses": ["selamat siang ","selamat siang ada yang bisa saya bantu?"],
+            "context": [""]
+        },
+        {
+            "tag": "selamat sore",
+            "patterns": ["selamat sore","Sore","Sore","Sore"],
+            "responses": ["selamat sore ","selamat sore ada yang bisa saya bantu?"],
+            "context": [""]
+        },
+        {
+            "tag": "selamat malam",
+            "patterns": ["selamat malam","Malam","Malam","Malam"],
+            "responses": ["selamat malam ","selamat malam ada yang bisa saya bantu?"],
+            "context": [""]
+        },
+        {
+            "tag": "Kelompok",
+            "patterns": ["anggota", "anggotanya", "berangotakan", "siapa yang membuat aplikasi ini"],
+            "responses": ["Beranggotakan \n 1. Arifullah 2. Irvan Akbar \n 3. Elang Bimantoro \n 4. Ilham Fajar"],
+            "context": [""]
+        },
+        {
+            "tag": "dosen",
+            "patterns": ["dosen", "dosen pengajar","nama dosen"],
+            "responses": ["Adapun Dosen Pengajar : 1. Sharfina Febbi Handayani ,M.Kom  2. Priyanto Tamami, S.Kom.  3. Hendrawan Aprilia A,ST.T. 4. Taufiq Abidin,M.Kom. 5. M.Fikri Hidayattullah,S.T.,M.kom, 6. Rosid Mustofa, M.kom, 7. Dwi Intan Af'idah,M.kom, 8. Hepatika Zidni Ilmadina,S.Pd.,M.kom, 9. Ardi Susanto,S.kom.,M.Cs."],
+            "context": [""]
+        },
+        {
+            "tag": "wajah",
+            "patterns": ["pengenalan wajah itu apa", "face recognition itu apa"],
+            "responses": ["Pengenalan wajah (face recognition) yaitu proses membandingkan sebuah citra wajah dengan basis data wajah dan menemukan basis data wajah yang paling cocok dengan citra masukan tersebut."],
+            "context": [""]
+        },
+        {
+            "tag": "algoritma",
+            "patterns": ["algoritma apa yang diganakan"],
+            "responses": ["Aplikasi ini di training menggunakan Support Vector Machine (SVM), Support Vector Machine (SVM) merupakan salah satu metode dalam supervised learning  yang biasanya digunakan untuk klasifikasi (seperti Support Vector Classification) dan regresi (Support Vector Regression). Dalam pemodelan klasifikasi, SVM memiliki konsep yang lebih matang dan lebih jelas secara matematis dibandingkan dengan teknik-teknik klasifikasi lainnya. SVM juga dapat mengatasi masalah klasifikasi dan regresi dengan linear maupun non linear"],
+            "context": [""]
+        },
+        {
+            "tag": "mata kuliah",
+            "patterns": ["mapel", "mata kuliah","pelajaran"],
+            "responses": ["Adapun Mata Kuliah : 1. Data Werehouse 2. Framework Programing  3. Komputasi Dan Aplikasi Cloud 4. Leadership 5. Machine Learning 6. Mobile Programing  7. Pemrograman Sistem Cerdas 1 8. Pengolahan Citra Digital 9. Pengujian Perangkat Lunak"],
+            "context": [""]
+        },
+        {
+            "tag": "absensi",
+            "patterns": ["bagaimana absensi","cara absen","absen","tutorial absen"],
+            "responses": ["untuk absensi kalian hanya perlu login, lalu pilih menu absensi mahasiswa dan pilih button hadir untuk mengisi kehadiran, setelah itu maka akan muncul halaman scan wajah dan jika user dapat terscan wajahnya sesuai database maka sudah dinyatakan absensi"],
+            "context": [""]
+        },
+        {
+            "tag": "model",
+            "patterns": ["model apa yang diganakan", "training menggunkan"],
+            "responses": ["Aplikasi ini mengunakan training TensorFlow, TensorFlow adalah pustaka perangkat lunak sumber terbuka dan gratis untuk pemelajaran mesin. Pustaka ini dapat digunakan untuk berbagai keperluan, tetapi memiliki fokus khusus pada pelatihan dan inferensi jaringan saraf dalam (Deep neural networks)."],
+            "context": [""]
+        }
+
+    ]
+}

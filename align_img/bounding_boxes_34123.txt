@@ -1,0 +1,4 @@
+./align_img\Irvan Akbar\irvan11.png 113 428 432 866
+./align_img\Irvan Akbar\irvan12.png 103 287 460 756
+./align_img\Irvan Akbar\irvan13.png 136 403 446 835
+./align_img\Irvan Akbar\irvan14.png 193 445 504 871

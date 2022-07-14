@@ -1,0 +1,7 @@
+./align_img\Elang\Elang.png 778 776 1907 2311
+./align_img\Elang\Elang1.png 642 959 1685 2574
+./align_img\Elang\Elang2.png 835 1150 1961 2667
+./align_img\Elang\Elang3.png 815 792 1898 2201
+./align_img\Elang\Elang4.png 780 942 1935 2551
+./align_img\Elang\Elang5.png 816 1070 1975 2658
+./align_img\Elang\Elang6.png 876 1129 2002 2679
